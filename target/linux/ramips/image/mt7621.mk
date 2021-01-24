@@ -830,7 +830,7 @@ endef
 TARGET_DEVICES += phicomm_k2p
 
 define Device/phicomm_k2p-32m
-  IMAGE_SIZE := 32128k
+  IMAGE_SIZE := 32448k
   DEVICE_VENDOR := Phicomm
   DEVICE_MODEL := K2P
   DEVICE_VARIANT := 32M
